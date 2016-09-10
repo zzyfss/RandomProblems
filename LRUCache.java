@@ -1,4 +1,5 @@
-    public void test() {
+// zzy, 9/8/16    
+   public void test() {
         LRUCache cache = new LRUCache(3);
         cache.set(1, 1);
         cache.set(2, 2);

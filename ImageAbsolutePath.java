@@ -1,4 +1,4 @@
-// zhiyuan
+// zzy, 9/7/16
 // Google online assessment
 public class Solution {
     public void test() {
